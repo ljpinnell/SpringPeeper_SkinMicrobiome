@@ -1,0 +1,83 @@
+SampleID	group	timepoint_cat	group_timepoint	timepoint	week_cat	date	swab_location	enclosure 	substrate	solo_group	treatment
+PR01	exhibit control	wild	exhibit control wild	1	A	3/27/15	Dorsal	AR2T1	Wet paper towel	Group	Ivermectin
+PR02	exhibit control	wild	exhibit control wild	1	A	3/27/15	Dorsal & Ventral	AR2T1	Wet paper towel	Group	Ivermectin
+PR03	exhibit control	wild	exhibit control wild	1	A	3/27/15	Dorsal	AR2T1	Wet paper towel	Group	Ivermectin
+PR04	exhibit control	wild	exhibit control wild	1	A	3/27/15	Dorsal	AR2T1	Wet paper towel	Group	Ivermectin
+PF01	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF02	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF03	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF04	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF05	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Other	Solo	None
+PF06	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF07	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF08	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF09	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF10	wild	wild	wild wild	1	A	3/31/15	Dorsal & Ventral	wild	Tall grass near pond	Solo	None
+PF01a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF02a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF03a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF04a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF05a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF06a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF07a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF08a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF09a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PF10a	transport	transport	transport transport	2	B	4/2/15	Dorsal & Ventral	Transport tub	Wet paper towel & wet leaves	Solo	None
+PQ01	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ02	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ03	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ04	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ05	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ06	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ07	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ08	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ09	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PQ10	quarantine	quarantine week 1	quarantine quarantine week 1	3	C	4/8/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	None
+PR05	exhibit control	quarantine week 1	exhibit control quarantine week 1	3	C	4/10/15	Dorsal & Ventral	AR2T1	Eco earth/coco fiber	Group	Ivermectin & Levamisole
+PR06	exhibit control	quarantine week 1	exhibit control quarantine week 1	3	C	4/10/15	Dorsal & Ventral	AR2T1	Eco earth/coco fiber	Group	Ivermectin & Levamisole
+PR07	exhibit control	quarantine week 1	exhibit control quarantine week 1	3	C	4/10/15	Dorsal & Ventral	AR2T1	Eco earth/coco fiber	Group	Ivermectin & Levamisole
+PR08	exhibit control	quarantine week 1	exhibit control quarantine week 1	3	C	4/10/15	Dorsal & Ventral	AR2T1	Eco earth/coco fiber	Group	Ivermectin & Levamisole
+PQ11	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ13	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ14	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ15	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ16	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ17	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ18	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ19	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ20	quarantine	quarantine week 2	quarantine quarantine week 2	4	D	4/15/15	Dorsal & Ventral	Q4T8A	Wet paper towel	Group	Ivermectin
+PQ21	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ22	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ23	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ24	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ25	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ26	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ27	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ28	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ29	quarantine	quarantine week 4	quarantine quarantine week 4	5	E	4/29/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ30	quarantine	quarantine week 7	quarantine quarantine week 7	6	F	5/20/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ31	quarantine	quarantine week 7	quarantine quarantine week 7	6	F	5/20/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ32	quarantine	quarantine week 7	quarantine quarantine week 7	6	F	5/20/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ33	quarantine	quarantine week 7	quarantine quarantine week 7	6	F	5/20/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ34	quarantine	quarantine week 7	quarantine quarantine week 7	6	F	5/20/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ35	quarantine	quarantine week 7	quarantine quarantine week 7	6	F	5/20/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ36	quarantine	quarantine week 7	quarantine quarantine week 7	6	F	5/20/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ37	quarantine	quarantine week 7	quarantine quarantine week 7	6	F	5/20/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PO47	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ38	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ39	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ40	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ41	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ42	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ43	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ44	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ45	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ46	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ48	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ49	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ50	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ51B	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ52	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ53	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ54	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
+PQ55	quarantine	quarantine week 9	quarantine quarantine week 9	7	G	6/3/15	Dorsal & Ventral	Q4T6A	Wet paper towel	Group	Ivermectin
