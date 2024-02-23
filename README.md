@@ -9,5 +9,5 @@
 
 # Table of Contents
 ## 16S Analysis
-#### * QIIME2 was used to create ASV table, representative sequenes, mid-point rooted tree
+#### * QIIME2 was used to create ASV table, representative sequences, mid-point rooted tree, and classifying ASVs using a classifier trained on SILVA 138.1 99 SSU database (515-806 region).
 #### * R was used to normalize counts, generate figures, and make statistical comparisons
