@@ -1,6 +1,6 @@
 # Manuscript code
 
-### This repository contains all of the code and input files required to replicate the analysis in the manuscript "Amphibian Skin Microbial Community Changes Over Time During Collection, Transport, and Quarantine" currently in preparation for Frontiers in Vet Sci (as of Sept 7, 2023).
+### This repository contains all of the code and input files required to replicate the analysis in the manuscript "Transport from the wild rapidly alters the diversity and composition of skin microbial communities and antifungal taxa in spring peeper frogs!" currently under rewview at Frontiers in Microbiomes (as of Feb 22, 2024).
 
 
 
